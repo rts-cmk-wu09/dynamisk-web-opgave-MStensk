@@ -13,6 +13,7 @@ let services = [
         headline: "Promoting your territory towards foreign tourists",
         text: "EasyCamper wants to promote the excellence of Italian food and wine, art, culture and the economy.",
         linktext: "Discover the places linked to your area that you can link to your structure"
+
     },
     {
         illustration: "https://dazzling-squirrel-77a63d.netlify.app/imgs/illustrations/tourist_map.png",
@@ -95,4 +96,52 @@ let advantages = [
     },
 ]
 
+let footerElement = {
+    headline: "Easy Camper",
+    motto: "When Passion Meets Comfort.",
+
+     fields: [
+    {
+        headline: "Discover the Network",
+        text1: "Where to shop",
+        text2: "Tour Guided",
+        text3: "Our Tours",
+        text4: "About us"
+    },
+    {
+        headline: "Become a Manager",
+        text1: "Join Your Pairing",
+        text2: "Offer your Service",
+        text3: "Are you a guide?",
+        text4: ""
+    },
+    {
+        headline: "Assistance",
+        text1: "Support Center",
+        text2: "FAQs",
+        text3: "Cancellation Options",
+        text4: "Reliability and security"
+    }
+    ],
+    bottomfield: [
+        {
+            textlink: "EazyCamper. All rights reserved."
+        },
+        {
+            textlink: "About"
+        },
+        {
+            textlink: "Site Map"
+        },
+        {
+            textlink: "Terms"
+        },
+        {
+            textlink: "Privacy Policy"
+        },
+        {
+            textlink: "Teams"
+        }
+    ]
+}
 // Opret dit dataobjekt til footerens indhold herunder
